@@ -1,0 +1,142 @@
+h1{
+	text-align: center;
+}
+img{
+	width: 300px;
+	height: 300px;
+	transform: rotate(90deg);
+	margin-top: 30px;
+}
+div{
+ display: flex;
+ flex-direction:column;
+}
+p{
+	margin-left: 15px;
+}
+
+p{
+	font-size: 30px;
+}
+.pink{
+	color: pink;
+}
+.brown{
+	color: brown;
+}
+.op{
+	transform: rotate(0);
+}
+.ma{
+	margin-left: 250px;
+}
+h1:hover{
+	color: #BD0000;
+}
+	
+.red:hover{
+	border-style: ridge;
+	border-color: #BD0000;
+	box-sizing: 40px 40px;
+	transition-property: all;
+	transition-duration: 0.1s;
+	transition-delay: 0.5s;
+	transition-timing-function: ease;
+	margin-right: 15px;
+	margin-left: 15PX;
+}
+.white:hover{
+	border-style: ridge;
+	border-color: border-style: ridge;
+	border-color: #EDFF00;
+	box-sizing: 40px 40px;
+	transition-property: all;
+	transition-duration: 0.1s;
+	transition-delay: 0.5s;
+	transition-timing-function: ease;
+	margin-right: 15px;
+	margin-left: 15PX;
+}
+.bronw:hover{
+	border-style: ridge;
+	border-color: border-style: ridge;
+	border-color: #663300;
+	box-sizing: 40px 40px;
+	transition-property: all;
+	transition-duration: 0.1s;
+	transition-delay: 0.5s;
+	transition-timing-function: ease;
+	margin-right: 15px;
+	margin-left: 15PX;
+}
+.pinki:hover{
+	border-style: ridge;
+	border-color: border-style: ridge;
+	border-color: #EA007F;
+	box-sizing: 40px 40px;
+	transition-property: all;
+	transition-duration: 0.1s;
+	transition-delay: 0.5s;
+	transition-timing-function: ease;
+	margin-right: 15px;
+	margin-left: 15PX;
+
+}
+.gerry:hover{
+	border-style: ridge;
+	border-color: border-style: ridge;
+	border-color: #B8B7B5;
+	box-sizing: 40px 40px;
+	transition-property: all;
+	transition-duration: 0.1s;
+	transition-delay: 0.5s;
+	transition-timing-function: ease;
+	margin-right: 15px;
+	margin-left: 15PX;
+
+}
+.black:hover{
+	border-style: ridge;
+	border-color: black;
+	box-sizing: 40px 40px;
+	transition-property: all;
+	transition-duration: 0.1s;
+	transition-delay: 0.5s;
+	transition-timing-function: ease;
+	margin-right: 15px;
+	margin-left: 15PX;
+}
+ a{
+	text-decoration: none;
+	color: black;
+}
+ul{
+	list-style-type: none
+}
+.li{
+	display: inline-block;
+	margin-right: 70px;
+	margin-left: 200px;
+}
+.lil{
+	float:left;
+}
+.or{
+	display: inline-block;
+}
+img{
+	width: 650px;
+	height: 650px;
+}
+.lo{
+	display: inline-block;
+}
+body{
+	background-image:url('../sachiroeban3/img/foni.jpg');
+	width: 100%;
+	height: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
