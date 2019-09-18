@@ -59,4 +59,21 @@ a:hover{
 .pl{
 	display: inline-block;
 }
+.sos{
+	margin-top: 30px;
+	color: red;
 
+}
+.j{
+	margin-top: 40px;
+	margin-left: 700px;
+	display: inline-block; 
+
+}
+h4{
+	margin-top: 10px;
+	margin-left: 200px;
+}
+audio{
+	margin-left: 600px;
+}
