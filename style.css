@@ -97,4 +97,10 @@ footer{
 .hoho{
 	padding: 50px;
 	display: inline-block;
+	margin-top: 200px;
+}
+.mapouter{
+	display: inline-block;
+	margin-top: 60px;
+	margin-left: 400px;
 }
