@@ -104,3 +104,96 @@ footer{
 	margin-top: 60px;
 	margin-left: 400px;
 }
+@media only screen and (max-width: 1024px) {
+	.f{
+		width: 250px;
+		height: 250px;
+		
+	}
+	.lo{
+		height: 450px;
+		width: 250px;
+		margin-left: 110px;
+	    margin-right: 110px;
+	}
+	.mapouter{
+        width: 250px;
+        height: 250px;
+        margin-left: 200px;
+	}
+	h1:hover{
+		color: #BD0000;
+
+		
+
+	}
+	.j{
+		margin-left: 460px;
+	}
+	.j:hover{
+        color: #BD0000;
+	}
+	h4{
+	   margin-left:12px;
+	   font-size: 20px;
+	}
+	h4:hover{
+		color: #BD0000;
+	}
+	
+	audio{
+		margin-left: 350px;
+	}
+	.hoho{
+		margin-left: 300px;
+	}
+}
+
+@media only screen and (max-width: 768px) {
+	.f{
+		width: 150px;
+		height: 150px;
+		
+		
+	}
+	.pl{
+		margin-left:110px; 
+	}
+	.lo{
+		height: 250px;
+		width: 150px;
+		margin-left: 10px;
+	    margin-right: 10px;
+	}
+	.mapouter{
+        width: 50px;
+        height: 50px;
+        margin-left: 80px;
+	}
+	h1:hover{
+		color: #BD0000;
+
+		
+
+	}
+	.j{
+		margin-left: 320px;
+	}
+	.j:hover{
+        color: #BD0000;
+	}
+	h4{
+	   margin-left:12px;
+	   font-size: 15px;
+	}
+	h4:hover{
+		color: #BD0000;
+	}
+	
+	audio{
+		margin-left: 200px;
+	}
+	.hoho{
+		margin-left: 180px;
+	}
+}

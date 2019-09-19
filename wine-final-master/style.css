@@ -139,4 +139,173 @@ body{
 	background-size: cover;
 	background-position: center;
 }
+@media only screen and(max-width: 1024px){
+	img{
+		width: 500px;
+		height: 500px;
+	}
+	h1:hover{
+		color: #BD0000;
+	}
+	.red:hover{
+	border-style: ridge;
+	border-color: #BD0000;
+	box-sizing: 40px 40px;
+	transition-property: all;
+	transition-duration: 0.1s;
+	transition-delay: 0.5s;
+	transition-timing-function: ease;
+	margin-right: 15px;
+	margin-left: 15PX;
+}
+.white:hover{
+	border-style: ridge;
+	border-color: border-style: ridge;
+	border-color: #EDFF00;
+	box-sizing: 40px 40px;
+	transition-property: all;
+	transition-duration: 0.1s;
+	transition-delay: 0.5s;
+	transition-timing-function: ease;
+	margin-right: 15px;
+	margin-left: 15PX;
+}
+.bronw:hover{
+	border-style: ridge;
+	border-color: border-style: ridge;
+	border-color: #663300;
+	box-sizing: 40px 40px;
+	transition-property: all;
+	transition-duration: 0.1s;
+	transition-delay: 0.5s;
+	transition-timing-function: ease;
+	margin-right: 15px;
+	margin-left: 15PX;
+}
+.pinki:hover{
+	border-style: ridge;
+	border-color: border-style: ridge;
+	border-color: #EA007F;
+	box-sizing: 40px 40px;
+	transition-property: all;
+	transition-duration: 0.1s;
+	transition-delay: 0.5s;
+	transition-timing-function: ease;
+	margin-right: 15px;
+	margin-left: 15PX;
+
+}
+.gerry:hover{
+	border-style: ridge;
+	border-color: border-style: ridge;
+	border-color: #B8B7B5;
+	box-sizing: 40px 40px;
+	transition-property: all;
+	transition-duration: 0.1s;
+	transition-delay: 0.5s;
+	transition-timing-function: ease;
+	margin-right: 15px;
+	margin-left: 15PX;
+
+}
+.black:hover{
+	border-style: ridge;
+	border-color: black;
+	box-sizing: 40px 40px;
+	transition-property: all;
+	transition-duration: 0.1s;
+	transition-delay: 0.5s;
+	transition-timing-function: ease;
+	margin-right: 15px;
+	margin-left: 15PX;
+}
+
+} 
+@media only screen and(max-width: 768px){
+	img{
+		width: 200px;
+		height: 200px;
+	}
+	h1:hover{
+		color: #BD0000;
+	}
+	.red:hover{
+	border-style: ridge;
+	border-color: #BD0000;
+	box-sizing: 40px 40px;
+	transition-property: all;
+	transition-duration: 0.1s;
+	transition-delay: 0.5s;
+	transition-timing-function: ease;
+	margin-right: 15px;
+	margin-left: 15PX;
+}
+.white:hover{
+	border-style: ridge;
+	border-color: border-style: ridge;
+	border-color: #EDFF00;
+	box-sizing: 40px 40px;
+	transition-property: all;
+	transition-duration: 0.1s;
+	transition-delay: 0.5s;
+	transition-timing-function: ease;
+	margin-right: 15px;
+	margin-left: 15PX;
+}
+.bronw:hover{
+	border-style: ridge;
+	border-color: border-style: ridge;
+	border-color: #663300;
+	box-sizing: 40px 40px;
+	transition-property: all;
+	transition-duration: 0.1s;
+	transition-delay: 0.5s;
+	transition-timing-function: ease;
+	margin-right: 15px;
+	margin-left: 15PX;
+}
+.pinki:hover{
+	border-style: ridge;
+	border-color: border-style: ridge;
+	border-color: #EA007F;
+	box-sizing: 40px 40px;
+	transition-property: all;
+	transition-duration: 0.1s;
+	transition-delay: 0.5s;
+	transition-timing-function: ease;
+	margin-right: 15px;
+	margin-left: 15PX;
+
+}
+.gerry:hover{
+	border-style: ridge;
+	border-color: border-style: ridge;
+	border-color: #B8B7B5;
+	box-sizing: 40px 40px;
+	transition-property: all;
+	transition-duration: 0.1s;
+	transition-delay: 0.5s;
+	transition-timing-function: ease;
+	margin-right: 15px;
+	margin-left: 15PX;
+
+}
+.black:hover{
+	border-style: ridge;
+	border-color: black;
+	box-sizing: 40px 40px;
+	transition-property: all;
+	transition-duration: 0.1s;
+	transition-delay: 0.5s;
+	transition-timing-function: ease;
+	margin-right: 15px;
+	margin-left: 15PX;
+}
+p{
+	font-size: 15px;
+}
+.text-warning{
+	font-size: 15px;
+}
+} 
 
