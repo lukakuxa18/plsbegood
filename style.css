@@ -10,9 +10,7 @@ ul{
 	margin-right: 70px;
 	margin-left: 200px;
 }
-.lil{
-	float:left;
-}
+
 .or{
 	display: inline-block;
 }
@@ -22,11 +20,10 @@ img{
 }
 .lo{
 	display: inline-block;
-	margin-top: 40px;
-	margin-right: 180px;
-	margin-left: 180px;
+	margin-top: 10px;
+	margin-right: 80px;
 	height: 600px;
-	width: 300px;
+	width: 350px;
 	border-style: solid;
 	border: 100px 100px;
 	border-color: #BD0000;
@@ -36,6 +33,15 @@ img{
 .lo:hover{
 	overflow: visible;
 	overflow-x: scroll;
+}
+.f{
+	width: 340px;
+    height: 340px;
+	margin:20px;
+
+}
+.yo{
+	display: inline-block;
 }
 
 h1{
@@ -47,12 +53,7 @@ h1:hover{
 a:hover{
 	color: red;
 }
-.f{
-	width: 400px;
-	height: 400px;
-	margin:10px;
-	display: inline-block;
-}
+
 .pi{
 	display: inline-block;
 	}
