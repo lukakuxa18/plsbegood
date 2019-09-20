@@ -197,3 +197,54 @@ footer{
 		margin-left: 180px;
 	}
 }
+@media only screen and (max-width: 375px) {
+	.f{
+		width: 50px;
+		height: 50px;
+		
+	}
+	h1{
+		margin-left: 220px;
+	}
+	.pl{
+        display: flex;
+        flex-wrap: wrap;
+	}
+	.lo{
+		height: 250px;
+		width: 50px;
+		margin-left: 110px;
+	    margin-right: 110px;
+	}
+	.mapouter{
+        width: 50px;
+        height: 50px;
+        margin-left: 20px;
+	}
+	h1:hover{
+		color: #BD0000;
+
+		
+
+	}
+	.j{
+		margin-left: 460px;
+	}
+	.j:hover{
+        color: #BD0000;
+	}
+	h4{
+	   margin-left:12px;
+	   font-size: 20px;
+	}
+	h4:hover{
+		color: #BD0000;
+	}
+	
+	audio{
+		margin-left: 50px;
+	}
+	.hoho{
+		margin-left: 30px;
+	}
+}
