@@ -240,4 +240,8 @@ footer{
  	height: 100px;
  	margin-left: 60px;
  }
+ .sos{
+ 	display: flex;
+ 	flex-wrap: nowrap;
+ }
 }
