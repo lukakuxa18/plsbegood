@@ -113,7 +113,6 @@ footer{
 	.f{
 		width: 250px;
 		height: 250px;
-		
 	}
 	.f:hover{
 	border-style: ridge;
@@ -131,10 +130,7 @@ footer{
 	}
 	h1:hover{
 		color: #BD0000;
-
-		
-
-	}
+}
 	.j{
 		margin-left: 460px;
 	}
@@ -161,8 +157,6 @@ footer{
 	.f{
 		width: 150px;
 		height: 150px;
-		
-		
 	}
 	.f:hover{
 	border-style: ridge;
@@ -183,10 +177,7 @@ footer{
 	}
 	h1:hover{
 		color: #BD0000;
-
-		
-
-	}
+}
 	.j{
 		margin-left: 320px;
 	}
@@ -207,41 +198,4 @@ footer{
 	.hoho{
 		margin-left: 180px;
 	}
-}
-@media only screen and (max-width: 375px) {
-  section{
-  	display: flex;
-  	columns: all;
-  }
-  h1{
-  	text-align: center;
-  }
-  .lo{
-  	width: 100px;
-  }
-  .f{
-  	width: 100px;
-  	height: 100px;
-  }
-  .j{
-  	text-align: center;
-  }
-  h4{
-  	font-size: 15px;
-  }
-  audio{
-  	margin-left: 120px;
-  }
- .hoho{
- 	margin-left: 120px;
- }
- .mapouter{
- 	width: 100px;
- 	height: 100px;
- 	margin-left: 60px;
- }
- .sos{
- 	display: flex;
- 	flex-wrap: nowrap;
- }
 }
