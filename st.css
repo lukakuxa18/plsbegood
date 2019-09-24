@@ -1,38 +1,26 @@
 @media only screen and (max-width: 375px) {
-  section{
-    display: flex;
-    columns: all;
-  }
   h1{
     text-align: center;
-  }
-  .lo{
-    width: 100px;
   }
   .f{
     width: 70px;
     height: 70px;
   }
-  .j{
-    text-align: center;
+  .d-flex flex-nowrap{
+    display: flex;
+    flex-wrap: nowrap;
+  }
+  .lo{
+    width: 100PX;
   }
   h4{
-    font-size: 10px;
-    margin-left: 12px;
+    font-size: 12px;
   }
   audio{
-    margin-left: 120px;
+    margin-left: 100px;
   }
- .hoho{
-  margin-left: 120px;
- }
- .mapouter{
-  width: 100px;
-  height: 100px;
-  margin-left: 60px;
- }
- .sos{
-  display: flex;
-  flex-wrap: nowrap;
- }
+  .mapouter{
+    width: 150px;
+    height: 150px;
+  }
 }
