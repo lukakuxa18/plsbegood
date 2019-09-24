@@ -1,37 +1,38 @@
 @media only screen and (max-width: 375px) {
   section{
-  	display: flex;
-  	columns: all;
+    display: flex;
+    columns: all;
   }
   h1{
-  	text-align: center;
+    text-align: center;
   }
   .lo{
-  	width: 100px;
+    width: 100px;
   }
   .f{
-  	width: 70px;
-  	height: 70px;
+    width: 70px;
+    height: 70px;
   }
   .j{
-  	text-align: center;
+    text-align: center;
   }
   h4{
-  	font-size: 10px;
+    font-size: 10px;
+    margin-left: 12px;
   }
   audio{
-  	margin-left: 120px;
+    margin-left: 120px;
   }
  .hoho{
- 	margin-left: 120px;
+  margin-left: 120px;
  }
  .mapouter{
- 	width: 100px;
- 	height: 100px;
- 	margin-left: 60px;
+  width: 100px;
+  height: 100px;
+  margin-left: 60px;
  }
  .sos{
- 	display: flex;
- 	flex-wrap: nowrap;
+  display: flex;
+  flex-wrap: nowrap;
  }
 }
